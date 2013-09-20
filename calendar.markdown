@@ -1,4 +1,12 @@
-## Week 1: Software, Version Control, and Git: Getting Ready
+---
+layout: page
+title: "calendar"
+date: 2013-08-25 18:48
+comments: true
+sharing: true
+footer: true
+---
+<h2 class="category">Week 1: Software, Version Control, and Git: Getting Ready</h2>
 ### August 27th, Tuesday 
 * Course Introduction
 * The simplest webpage
@@ -9,7 +17,7 @@
 * Intro to Text Editors
 * Version Control & You: Github 101
 
-## Week 2: Thinking in Structures, Seeing Elements
+<h2 class="category">Week 2: Thinking in Structures, Seeing Elements</h2>
 ### September 3rd, Tuesday
 * **Reading for Today:** Robbins, 3-32
 * Elements of print page design
@@ -21,9 +29,10 @@
 * HTML Elements
 * Markup basics: head, body, p, ul, li, h1, etc
 
-## Week 3: Beyond the Basics--Organizing Content
+<h2 class="category">Week 3: Beyond the Basics--Organizing Content</h2>
 ### September 10th, Tuesday
 * **Reading for Today:** Robbins, 49-68
+* **Due Today: [Coding Check-In #1](codingcheckin1.html)**
 * Inline & block elements
 * Attributes: IDs & classes
 * Divs, Spans, & HTML5 Structuring
@@ -34,26 +43,28 @@
 * Information Architecture
 * SEO (and how not to be evil)
 
-## Week 4: Links & Images
+<h2 class="category">Week 4: Links & Images</h2>
 ### September 17th, Tuesday
-* **Reading for Today:** [web links tba]
+* **Reading for Today:** None. Practice with material covered thus far.
 * The filesystem, revisited
 * Intro to linking
 
 ### September 19th, Thursday
+* **Due Today: [Coding Check-In #2](codingcheckin2.html)**
 * **Reading for Today:** Hagen, Ch9; Robbins, ch7
 * All about images
 
-## Week 5: Tables & Markdown
+<h2 class="category">Week 5: Tables & Markdown</h2>
 ### September 24th, Tuesday
 * **Reading for Today:** Robbins, ch8
 * Tables (for data, not layout)
 
 ### September 26th, Thursday
+* **Due Today: [Coding Check-In #3](codingcheckin3.html)**
 * **Reading for Today:** Robbins, ch9
 * Simpler HTML composing: Markdown
 
-## Week 6: Styling
+<h2 class="category">Week 6: Styling</h2>
 ### October 1st, Tuesday 
 * **Reading for Today:** [web links tba]
 * Intro to CSS
@@ -62,7 +73,7 @@
 * **Reading for Today:** Robbins, ch11
 * CSS: Formatting Text
 
-## Week 7: Typeface Fundamentals
+<h2 class="category">Week 7: Typeface Fundamentals</h2>
 ### October 8th, Tuesday
 * **Reading for Today:** Robbins, ch12 & Hagen ch7
 * Typography 101
@@ -71,7 +82,7 @@
 * **Reading for Today:** [web links tba]
 * Typography & the web
 
-## Week 8: Thinking in Colors
+<h2 class="category">Week 8: Thinking in Colors</h2>
 ### October 15th, Tuesday (Fall Break)
 * NO CLASS
 
@@ -79,7 +90,7 @@
 * **Reading for Today:** Hagen, ch13
 * Color Theory
 
-## Week 9: The Box Model
+<h2 class="category">Week 9: The Box Model</h2>
 ### October 22nd, Tuesday
 * **Reading for Today:** Robbins, ch13
 * The box model, pt1
@@ -88,7 +99,7 @@
 * **Reading for Today:** Robbins, Ch14
 * The box model, pt2
 
-## Week 10: Grids & Positioning
+<h2 class="category">Week 10: Grids & Positioning</h2>
 ### October 29th, Tuesday
 * **Reading for Today:** [web links]
 * Grids & Positioning
@@ -97,7 +108,7 @@
 * **Reading for Today:** Robbins, ch15
 * Grids & Positioning continued
 
-## Week 11: Contemporary Design
+<h2 class="category">Week 11: Contemporary Design</h2>
 ### November 5th, Tuesday
 * **Reading for Today:** Robbins, ch3; Robbins, ch16; Responsive Design PDF
 * Responsive Design & Media Queries
@@ -106,21 +117,21 @@
 
 * Introducing Bootstrap
 
-## Week 12: Bootstrap Practice
+<h2 class="category">Week 12: Bootstrap Practice</h2>
 ### November 12th, Tuesday
 * Bootstrap Lab, Day 1
 
 ### November 14th, Thursday
 * Bootstrap Lab, Day 2
 
-## Week 13: Standards & Access
+<h2 class="category">Week 13: Standards & Access</h2>
 ### November 19th, Tuesday
 * Web Standards, Quirks, & Validation
 
 ### November 21st, Thursday
 * Web Accessibility
 
-## Week 14: Lab
+<h2 class="category">Week 14: Lab</h2>
 ### November 26th, Tuesday
 
 * Personal Website & Portfolio Lab
@@ -128,7 +139,7 @@
 ### November 28th, Thursday (Thanksgiving Break)
 * No Class
 
-## Week 15: Lab
+<h2 class="category">Week 15: Lab</h2>
 ### December 3rd, Tuesday
 
 * Personal Website & Portfolio Lab
